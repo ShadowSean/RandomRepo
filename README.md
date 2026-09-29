@@ -3,6 +3,9 @@ Sean Nwabuoku, 10092748
 
 Post Process & Daytime Changer
 
+<img width="1325" height="408" alt="image" src="https://github.com/user-attachments/assets/b2b1951b-c66a-4652-a9d7-c53611ab1d76" />
+
+
 Within this game I made use of the singleton design within Unreal Engine by using a game instance that manages the 
 post process settings on the player camera on top of being able to manage the directional light settings within the game world.
 I made a custom game instance that only allows itself to be loaded into the world so that no other instance can exist within the game world.
